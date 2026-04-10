@@ -1,4 +1,2 @@
-node_modules/
-CRPMS-backend/node_modules/
-CRPMS-frontend/node_modules/
+node_modules
 .env
