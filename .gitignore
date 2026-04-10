@@ -1,5 +1,4 @@
-**/node_modules/
+node_modules/
+CRPMS-backend/node_modules/
+CRPMS-frontend/node_modules/
 .env
-.DS_Store
-/dist
-/build
